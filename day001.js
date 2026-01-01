@@ -1,26 +1,24 @@
-// 1. Write a JavaScript function that takes a person’s name and returns this message:
+// Day 001 – Easy
+// Question:
+// Write a JavaScript function that takes a person’s name
+// and returns: "Happy New Year 2026, <name>! 🎉"
 
-//"Happy New Year 2026, <name>! 🎉"
-
-/*
-// method - 1 (using template literals)
+// Solution 1 – Template Literals (Recommended)
 function wishNewYear(name) {
   return `Happy New Year 2026, ${name}! 🎉`;
 }
 console.log(wishNewYear("Khizra"));
-*/
 
-/*
-// method - 2 (using string concatination)
-function wishNewYear(name){
-    return "Happy New Year 2026 " + name + "! 🎉";
+// ---------------------------------------------
+
+// Solution 2 – String Concatenation
+function wishNewYearConcat(name) {
+  return "Happy New Year 2026, " + name + "! 🎉";
 }
-console.log(wishNewYear("Khizra"));
-*/
+console.log(wishNewYearConcat("Khizra"));
 
-/*
-//using arrow function
-const wishNewYear = (name) => `Happy New Year 2026, ${name}! 🎉`;
-console.log(wishNewYear("Khizra"));
-*/
+// ---------------------------------------------
 
+// Solution 3 – Arrow Function
+const wishNewYearArrow = (name) => `Happy New Year 2026, ${name}! 🎉`;
+console.log(wishNewYearArrow("Khizra"));
