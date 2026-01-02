@@ -15,7 +15,7 @@ A 365-day personal challenge to master **JavaScript** by solving
 | Day | Question | Solution |
 |-----|----------|----------|
 | 001 | New Year Greeting Function | [day001.js](./day001.js) |
-| 002 | _(to be updated)_ | _coming soon_ |
+| 002 | print text on condition | [day002.js](./day002.js) |
 | 003 | _(to be updated)_ | _coming soon_ |
 <!-- Add new rows above this line -->
 
