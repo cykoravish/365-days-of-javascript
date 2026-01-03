@@ -18,3 +18,14 @@ function checkLeapYear(year) {
 
 console.log(checkLeapYear(2026));
 console.log(checkLeapYear(2028));
+
+// solution 2 (Using early return (clean & readable))
+function isLeapYear(year) {
+  if (year % 4 === 0) return true;
+  if (year % 100 === 0) return false;
+  if (year % 400 === 0) return true;
+  return false;
+}
+
+console.log(isLeapYear(2026));
+console.log(isLeapYear(2028));
