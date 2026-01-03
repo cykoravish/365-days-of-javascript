@@ -9,9 +9,9 @@
 // (Hint: A leap year is divisible by 4, but not by 100 unless also divisible by 400.)
 
 function checkLeapYear(year) {
-  if (year % 4 === 0 || year % 400 === 0) {
+  if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
     return `${year} is the leap year`;
-  }else{
+  } else {
     return `${year} is not a leap year`;
   }
 }
