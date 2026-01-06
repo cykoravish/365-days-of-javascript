@@ -20,5 +20,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 004 | Find Digits of number | [day004.js](./day004.js) |
 | 005 | Check number is palindrome | [day005.js](./day005.js) |
 | 006 | Find the factorial | [day006.js](./day006.js) |
+| 006 | Find the prime number | [day007.js](./day007.js) |
 <!-- Add new rows above this line -->
 
