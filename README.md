@@ -23,5 +23,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 007 | Find the prime number | [day007.js](./day007.js) |
 | 008 | Fibonacci series | [day008.js](./day008.js) |
 | 009 | Vowels count | [day009.js](./day009.js) |
+| 010 | Sum of n natural number | [day010.js](./day010.js) |
 <!-- Add new rows above this line -->
 
