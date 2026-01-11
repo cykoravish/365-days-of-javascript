@@ -8,10 +8,14 @@
 
 function checkString(str) {
   for (let i = 0; i < str.length; i++) {
-    if (!isNaN(str[i])) {
-      console.log("string contains numbers");
+    if (isNaN(str[i])) {
+      console.log("Contains non-numeric characters");
+      return;
     }
-    console.log("string only have alphabets");
   }
+  console.log("Only numbers");
 }
-checkString("r12d")
+
+checkString("12345"); // Only numbers
+checkString("12a3");  // Contains non-numeric characters
+checkString("jid");   // Contains non-numeric characters
