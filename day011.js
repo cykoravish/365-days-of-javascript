@@ -15,7 +15,6 @@ function checkString(str) {
   }
   console.log("Only numbers");
 }
-
 checkString("12345"); 
 checkString("12a3"); 
 checkString("jid");
