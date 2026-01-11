@@ -8,8 +8,10 @@
 
 function checkString(str) {
   for (let i = 0; i < str.length; i++) {
-    if (isNaN(str[i])) {
-      console.log();
+    if (!isNaN(str[i])) {
+      console.log("string contains numbers");
     }
+    console.log("string only have alphabets");
   }
 }
+checkString("r12d")
