@@ -24,5 +24,7 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 008 | Fibonacci series | [day008.js](./day008.js) |
 | 009 | Vowels count | [day009.js](./day009.js) |
 | 010 | Sum of n natural number | [day010.js](./day010.js) |
+| 011 | check string for number | [day011.js](./day011.js) |
+| 012 | Find largest number | [day012.js](./day012.js) |
 <!-- Add new rows above this line -->
 
