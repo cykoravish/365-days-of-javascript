@@ -28,5 +28,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 012 | Find largest number | [day012.js](./day012.js) |
 | 013 | Remove dublicate element | [day013.js](./day013.js) |
 | 014 | Find even odd arr length | [day014.js](./day014.js) |
+| 015 | Find first non-repeating char | [day015.js](./day015.js) |
 <!-- Add new rows above this line -->
 
