@@ -23,4 +23,19 @@ function checkUniqueChar(str) {
   }
   return "All characters are unique";
 }
-console.log(checkUniqueChar("ravisha"));
+console.log(checkUniqueChar("Ravish"));
+
+//another optimized solution
+function checkUniqueCharacter(str) {
+  let seen = {};
+
+  for (let char of str) {
+    if (seen[char]) {
+      return "Duplicate characters found";
+    }
+    seen[char] = true;
+  }
+
+  return "All characters are unique";
+}
+console.log(checkUniqueCharacter("baby"));
