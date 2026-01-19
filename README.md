@@ -32,5 +32,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 016 | Reverse word of sentence | [day016.js](./day016.js) |
 | 017 | Find second largest number | [day017.js](./day017.js) |
 | 018 | Check unique character in string| [day018.js](./day018.js) |
+| 018 | Rotate array in right| [day019.js](./day019.js) |
 <!-- Add new rows above this line -->
 
