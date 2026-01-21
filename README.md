@@ -35,5 +35,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 019 | Rotate array in right| [day019.js](./day019.js) |
 | 020 | character appearing the most times| [day020.js](./day020.js) |
 | 021 | check if arr sorted| [day021.js](./day021.js) |
+| 022 | capitalize each character| [day022.js](./day022.js) |
 <!-- Add new rows above this line -->
 
