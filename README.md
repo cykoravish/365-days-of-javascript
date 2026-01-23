@@ -36,5 +36,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 020 | character appearing the most times| [day020.js](./day020.js) |
 | 021 | check if arr sorted| [day021.js](./day021.js) |
 | 022 | capitalize each character| [day022.js](./day022.js) |
+| 023 | number to binary base 2| [day023.js](./day023.js) |
 <!-- Add new rows above this line -->
 
