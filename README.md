@@ -42,5 +42,7 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 025 | check strings are anagram            | [day025.js](./day025.js) |
 | 026 | find missing number                  | [day026.js](./day026.js) |
 | 027 | find longest word in string          | [day027.js](./day027.js) |
+| 028 | group array of num                   | [day028.js](./day028.js) |
+| 029 | find freq of each char               | [day029.js](./day029.js) |
 
 <!-- Add new rows above this line -->
