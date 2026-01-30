@@ -45,5 +45,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 028 | group array of num                   | [day028.js](./day028.js) |
 | 029 | find freq of each char               | [day029.js](./day029.js) |
 | 030 | find pairs with specific sum         | [day030.js](./day030.js) |
+| 031 | compress string                      | [day031.js](./day031.js) |
 
 <!-- Add new rows above this line -->
