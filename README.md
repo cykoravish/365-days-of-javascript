@@ -47,5 +47,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 030 | find pairs with specific sum         | [day030.js](./day030.js) |
 | 031 | compress string                      | [day031.js](./day031.js) |
 | 032 | Find max differece in arr values     | [day032.js](./day032.js) |
+| 033 | Find palindrome                      | [day033.js](./day033.js) |
 
 <!-- Add new rows above this line -->
