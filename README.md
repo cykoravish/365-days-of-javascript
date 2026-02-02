@@ -48,5 +48,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 031 | compress string                      | [day031.js](./day031.js) |
 | 032 | Find max differece in arr values     | [day032.js](./day032.js) |
 | 033 | Find palindrome                      | [day033.js](./day033.js) |
+| 033 | Find first repeating char            | [day034.js](./day034.js) |
 
 <!-- Add new rows above this line -->
