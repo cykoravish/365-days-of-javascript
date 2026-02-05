@@ -51,5 +51,6 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 034 | Get first repeating char             | [day034.js](./day034.js) |
 | 035 | find longest consucutive num         | [day035.js](./day035.js) |
 | 036 | Equallly balanced brackets check     | [day036.js](./day036.js) |
+| 037 | Longest subArray                     | [day037.js](./day037.js) |
 
 <!-- Add new rows above this line -->
