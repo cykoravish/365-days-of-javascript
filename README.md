@@ -54,5 +54,7 @@ A 365-day personal challenge to master **JavaScript** by solving
 | 037 | Longest subArray                     | [day037.js](./day037.js) |
 | 038 | Find max product of two num          | [day038.js](./day038.js) |
 | 039 | Check anagram                        | [day039.js](./day039.js) |
+| 040 | Find non-repeating character         | [day040.js](./day040.js) |
+| 041 | Abstraction in js                    | [day041.js](./day041.js) |
 
 <!-- Add new rows above this line -->
