@@ -1,0 +1,2 @@
+//Q. What is a constructor in a JavaScript class?
+// A constructor is a special method in a JavaScript class that is automatically called when an object is created and is used to initialize properties.
